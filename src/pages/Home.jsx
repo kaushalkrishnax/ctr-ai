@@ -30,7 +30,7 @@ const Home = () => {
             {['Home', 'Login'].map((item) => (
               <a 
                 key={item}
-                href={`#${item.toLowerCase()}`} 
+                href={`/${item.toLowerCase()}`} 
                 className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 font-medium transition-colors"
               >
                 {item}
@@ -65,8 +65,8 @@ const Home = () => {
           >
             {['Home', 'Login', 'Start Free'].map((item) => (
               <a 
-                key={item}
-                href={`#${item.toLowerCase()}`} 
+                key={it em}
+                href={`/${item.toLowerCase()}`} 
                 className="block py-2 text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 font-medium"
                 onClick={() => setIsMenuOpen(false)}
               >
