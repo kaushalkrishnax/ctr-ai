@@ -1,41 +1,42 @@
-# YTCTR.ai - AI-Powered YouTube Title & Thumbnail Generator
+# CTR.ai
 
-Welcome to **YTCTR.ai** – the ultimate AI tool designed to help YouTubers create **high-converting titles and thumbnails** that boost **Click-Through Rate (CTR)** and maximize views! 🚀
-
-## 🌟 Features
-
-✅ **AI-Generated YouTube Titles** – Get optimized and engaging video titles in seconds using **Gemini Flash AI**.
-✅ **Smart Thumbnail Suggestions** *(Coming Soon)* – AI-powered thumbnail design to grab viewers' attention.
-✅ **CTR Optimization** *(Coming Soon)* – Test multiple versions and get recommendations for better performance.
-✅ **Simple & Fast UI** – Easy-to-use interface with instant results.
-
-## 🔧 Tech Stack
-
-- **Frontend:** React (Vite) for a fast and responsive UI.
-- **Backend:** Node.js (Express) / FastAPI for API handling.
-- **AI API:** Gemini Flash (Google AI) for title generation.
-- **Hosting:** Vercel (Frontend) + Koyeb/Render (Backend).
-
-## 🚀 Getting Started
-
-YTCTR.ai is currently under development. Stay tuned for the official launch!
-
-1️⃣ **Follow our updates** on [Twitter](#) and [LinkedIn](#).
-2️⃣ **Join our beta testers** – Sign up [here](#) (Coming soon!).
-3️⃣ **Give feedback** – Help shape the product!
-
-## 📅 Roadmap
-
-- AI-Powered Title Generation
-- AI Thumbnail Creator
-- CTR Optimization
-- API Access for Marketers
-
-## 📩 Contact
-
-For any inquiries, reach out to us at **support@ytctr.ai** (Coming Soon).
+## 🚀 Create Engaging Social Media Content Effortlessly
+CTR.ai helps you craft compelling social media content that grabs attention and boosts engagement. Whether it's **titles, descriptions, hashtags, or captions**, we've got you covered. Plus, track how your content performs with an easy-to-use dashboard!
 
 ---
 
-Stay tuned! YTCTR.ai is here to revolutionize YouTube content creation! 🚀
+## ✨ What You Can Do
+- **Catchy Titles** – Generate attention-grabbing titles for YouTube, Instagram, TikTok, and more.
+- **Engaging Descriptions** – Write compelling post descriptions that drive engagement.
+- **Smart Hashtags** – Get relevant hashtags to increase reach.
+- **Captions That Work** – Create captions that make people stop scrolling.
+- **Performance Tracking** – See how well your content is performing in real time.
+- **Supports Multiple Platforms** – Works for YouTube, Instagram, TikTok, Twitter, LinkedIn, and beyond.
 
+---
+
+## 🛠️ How It Works
+1. **Share Your Idea** – Enter a topic, keyword, or concept.
+2. **Get AI Suggestions** – Instantly receive content tailored for your platform.
+3. **Post & Grow** – Copy, paste, and publish your optimized content.
+4. **Track Performance** – See engagement trends and insights on your dashboard.
+
+---
+
+## 🔗 Where You Can Use It
+✅ YouTube  
+✅ Instagram  
+✅ TikTok  
+✅ Twitter (X)  
+✅ LinkedIn  
+✅ Facebook  
+✅ And more!
+
+---
+
+## 📈 What’s Coming Next
+- **Trend Insights** – Discover what’s trending before it happens.
+- **Post Scheduling** – Plan and schedule content in advance.
+- **A/B Testing** – Compare different content versions to see what works best.
+
+🚀 Make your content stand out with **CTR.ai** today!
