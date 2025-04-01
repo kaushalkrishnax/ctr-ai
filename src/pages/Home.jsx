@@ -65,7 +65,7 @@ const Home = () => {
           >
             {['Home', 'Login', 'Start Free'].map((item) => (
               <a 
-                key={it em}
+                key={item}
                 href={`/${item.toLowerCase()}`} 
                 className="block py-2 text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 font-medium"
                 onClick={() => setIsMenuOpen(false)}
